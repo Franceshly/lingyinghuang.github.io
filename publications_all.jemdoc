@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU.txt}{publications.html}
+= Publications
+
+If you have any problem in accessing the following papers online, please feel free to contact me.
+== Journal Articles
+. Xiaomeng Chen, *Lingying Huang\**, Kemi Ding, Subhrakanti Dey and Ling Shi, /Privacy-Preserving Push-
+sum Average Consensus via State Decomposition/, *IEEE Transactions on Automatic
+Control*, Submitted.
+. *Lingying Huang\**, Junfeng Wu, Yilin Mo and Ling Shi, /Joint Sensor and Actuator Placement
+for Infinite-Horizon LQG Control/, *IEEE Transactions on Automatic Control*, to appear.
+. *Lingying Huang\**, Kemi Ding, Alex S. Leong, Daniel E. Quevedo and Ling Shi, /Encryption Scheduling for Remote State Estimation under an
+Operation Constraint/, *IEEE Transactions on Control of Network Systems*, *Automatica*, to appear.
+. *Lingying Huang\**, Jiazheng Wang, Enoch Kung, Yilin Mo and Ling Shi, /Stochastic Event-based
+Sensor Schedules for Remote State Estimation in Cognitive Radio Sensor Networks/, *IEEE Transactions on Automatic Control*, to appear. [https://ieeexplore.ieee.org/document/9134874]
+
+== Conference Proceedings
+. *Lingying Huang\**, Alex S. Leong, Daniel E. Quevedo and Ling Shi, /Finite Time Encryption Schedule in the Presence of an Eavesdropper with Operation Cost/, *The 2019 American Control Conference*,  Philadelphia, USA, July 2019.
+[https://ieeexplore.ieee.org/document/8815291]
+
+   
+   

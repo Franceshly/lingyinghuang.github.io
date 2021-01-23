@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU.txt}{index.html}
+==Lingying Huang
+
+
+~~~
+{}{img_left}{photo.jpg}{alt text}{131}{180}{https://scholar.google.com.hk/citations?hl=en&pli=1&user=e21TRGcAAAAJ}
+PhD \n
+Advisor: [http://www.ece.ust.hk/~eesling/ Prof. Ling Shi] \n
+[https://ece.hkust.edu.hk/  Department of Electronic and Computer Engineering] \n
+[https://hkust.edu.hk/ Hong Kong University of Science and Technology] \n
+E-mail: /lhuangaq@connect.ust.hk/ 
+~~~
+
+
+  
+
+== Research
+My research interests include 
+- Cyber Physical System Security and Privacy
+- Networked State Estimation
+- Event-triggered Mechanism
+- Distributed Optimization  
+- Machine Learning
